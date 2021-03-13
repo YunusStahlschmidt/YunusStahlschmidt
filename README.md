@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">A passionate software developer living in Turkey</h3>
+<h3 align="center">I'm a passionate German software developer living in Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusstahlschmidt" alt="yunusstahlschmidt" /></a> </p>
 

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stahlschmidt.yunus@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cliY_jMvDogg8rZ36XN4FOkDjqlKxRo5/view?usp=sharing](https://drive.google.com/file/d/1cliY_jMvDogg8rZ36XN4FOkDjqlKxRo5/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yunus-stahlschmidt-1aa530199/](https://www.linkedin.com/in/yunus-stahlschmidt-1aa530199/)
 
 - ⚡ Fun fact **I love sports and nature**
 

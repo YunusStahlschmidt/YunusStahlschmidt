@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusstahlschmidt" alt="yunusstahlschmidt" /></a> </p>
 
-- 🔭 I’m currently working on **a social media mobile app**
+- 🔭 I’m currently working on **my grad project abour landmark recognition**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **stahlschmidt.yunus@gmail.com**
 

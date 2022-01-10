@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📫 How to reach me **stahlschmidt.yunus@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunus-stahlschmidt-1aa530199/](https://www.linkedin.com/in/yunus-stahlschmidt-1aa530199/)
 
 - ⚡ Fun fact **I love sports and nature**

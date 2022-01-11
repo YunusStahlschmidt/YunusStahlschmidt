@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📄 Know about my experiences [https://en.linkedin.com/in/yunus-stahlschmidt-1aa530199/](https://en.linkedin.com/in/yunus-stahlschmidt-1aa530199/)
+- 📄 Know about my experiences [www.linkedin.com/in/yunus-stahlschmidt-1aa530199/](www.linkedin.com/in/yunus-stahlschmidt-1aa530199/)
 
 - ⚡ Fun fact **I love sports and nature**
 

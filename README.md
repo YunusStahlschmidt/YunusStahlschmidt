@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate German software developer living in Turkey</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=YunusStahlschmidt)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusstahlschmidt" alt="yunusstahlschmidt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusstahlschmidt&theme=dark" alt="yunusstahlschmidt" /></a> </p>
 
 - 🔭 I’m currently working on **my grad project about landmark recognition**
 

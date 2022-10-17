@@ -4,9 +4,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=YunusStahlschmidt)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusstahlschmidt&theme=darkhub&column=7" alt="yunusstahlschmidt" /></a> </p>
 
-- 🔭 I’m currently working on **my grad project about landmark recognition**
+- 🔭 I’m currently working on **a new Mobile App**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Big Data Engineering and Flutter & Dart**
 
 - 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/yunus-stahlschmidt-1aa530199/)
 

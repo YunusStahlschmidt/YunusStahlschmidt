@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">I'm a passionate German software developer living in Turkey</h3>
+<h3 align="center">I'm a passionate Austrian data engineer living in Turkey</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=YunusStahlschmidt)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusstahlschmidt&theme=darkhub&column=7" alt="yunusstahlschmidt" /></a> </p>
 
-- 🔭 I’m currently working on **a new Mobile App**
+- 🔭 I’m currently working on **a Game with AI at its core to revolutionize storytelling**
 
-- 🌱 I’m currently learning **Big Data Engineering and Flutter & Dart**
+- 🌱 I’m currently learning **advanced concepts of generative AI with LLM's**
 
-- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/yunus-stahlschmidt-1aa530199/)
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/yunus-stahlschmidt/)
 
 - ⚡ Fun fact **I love sports and nature**
 
